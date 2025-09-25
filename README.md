@@ -5,7 +5,7 @@ Analyzed **2018–2020 Telangana groundwater data (district, mandal, village)** 
 | File | Description |
 |------|-------------|
 | `Ground Water Of Telangana.pbix` | Full interactive Power BI report (open in Power BI Desktop). |
-| `images/` | Screenshots of the dashboard for preview. |
+| `images` | Screenshots of the dashboard for preview. |
 | `README.md` | Project description and documentation. |
 
 ## Key Features
